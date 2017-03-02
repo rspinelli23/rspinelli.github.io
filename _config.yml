@@ -1,16 +1,16 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Robert Spinelli
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Robert Spinelli
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: This is where you will find information about me. 
+  email: rspinelli23@gmail.com
   twitter: #username
   facebook: #username
   instagram: #username
